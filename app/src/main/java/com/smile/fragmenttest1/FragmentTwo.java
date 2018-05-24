@@ -42,7 +42,7 @@ public class FragmentTwo extends Fragment {
         lp.width = fragmentSize.x/2;
         // lp.height = fragmentSize.y;
         lp.leftMargin = lp.width+1;
-        lp.rightMargin = fragmentSize.x;
+
         fragmentView.setLayoutParams(lp);
     }
 }
